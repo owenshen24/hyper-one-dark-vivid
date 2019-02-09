@@ -1,5 +1,5 @@
 
-const backgroundColor = '#282c34';
+const backgroundColor = '#ffffff';
 const foregroundColor = '#abb2bf';
 const cursorColor = foregroundColor;
 const borderColor = backgroundColor;
@@ -12,7 +12,7 @@ const colors = {
   blue        : '#52adf2', // blue
   magenta     : '#d55fde', // pink
   cyan        : '#52adf2', // cyan
-  white       : '#d0d0d0', // light gray
+  white       : '#fcfcfc', // very light gray
   lightBlack  : '#808080', // medium gray
   lightRed    : '#ef596f', // red
   lightGreen  : '#89ca78', // green
