@@ -1,10 +1,10 @@
 {
-  "name": "hyper-one-dark-vivid",
+  "name": "hyper-one-dark-black",
   "version": "1.0.0",
-  "description": "Hyper.app theme based on Atom One Dark (vivid)",
+  "description": "Hyper.app theme based on Atom One Dark",
   "main": "index.js",
-  "author": "Brandon Smith",
-  "repository": "https://github.com/brandon93s/hyper-one-dark-vivid",
+  "author": "Brandon Smith (modified by Owen Shen)",
+  "repository": "https://github.com/owenshen24/hyper-one-dark-vivid",
   "license": "MIT",
   "keywords": [
     "Hyper",
