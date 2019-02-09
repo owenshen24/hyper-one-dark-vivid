@@ -4,7 +4,10 @@
   "description": "Hyper.app theme based on Atom One Dark",
   "main": "index.js",
   "author": "Brandon Smith (modified by Owen Shen)",
-  "repository": "https://github.com/owenshen24/hyper-one-dark-vivid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenshen24/hyper-one-dark-vivid.git"
+  },
   "license": "MIT",
   "keywords": [
     "Hyper",
@@ -14,5 +17,12 @@
     "Dark",
     "One",
     "Vivid"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/owenshen24/hyper-one-dark-vivid/issues"
+  },
+  "homepage": "https://github.com/owenshen24/hyper-one-dark-vivid#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

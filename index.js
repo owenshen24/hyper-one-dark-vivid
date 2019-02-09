@@ -1,5 +1,5 @@
 
-const backgroundColor = '#ffffff';
+const backgroundColor = '#000000';
 const foregroundColor = '#abb2bf';
 const cursorColor = foregroundColor;
 const borderColor = backgroundColor;
