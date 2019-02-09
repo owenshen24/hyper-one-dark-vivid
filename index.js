@@ -9,17 +9,17 @@ const colors = {
   red         : '#ef596f', // red
   green       : '#89ca78', // green
   yellow      : '#d8985f', // yellow
-  blue        : '#52adf2', // blue
+  blue        : '#52c8f2', // blue
   magenta     : '#d55fde', // pink
   cyan        : '#52adf2', // cyan
-  white       : '#fcfcfc', // very light gray
+  white       : '#ffffff', // white
   lightBlack  : '#808080', // medium gray
   lightRed    : '#ef596f', // red
   lightGreen  : '#89ca78', // green
   lightYellow : '#d8985f', // yellow
-  lightBlue   : '#52adf2', // blue
+  lightBlue   : '#52d5f2', // blue
   lightMagenta: '#d55fde', // pink
-  lightCyan   : '#52adf2', // cyan
+  lightCyan   : '#2e9cef', // cyan
   colorCubes  : '#ffffff', // white
   grayscale   : foregroundColor
 };

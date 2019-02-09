@@ -1,6 +1,6 @@
 {
   "name": "hyper-one-dark-black",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Hyper.app theme based on Atom One Dark",
   "main": "index.js",
   "author": "Brandon Smith (modified by Owen Shen)",
